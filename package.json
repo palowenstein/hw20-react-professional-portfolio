@@ -1,6 +1,6 @@
 {
-  "name": "Pierre Andre Lowenstein React Portfolio",
-  "homepage": "https://pierreandre.net",
+  "name": "pierre-andre-lowenstein_react-portfolio",
+  "homepage": "https://github.com/palowenstein/professional-portfolio-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
