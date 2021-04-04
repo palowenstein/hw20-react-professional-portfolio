@@ -7,17 +7,19 @@ class Banner extends Component {
                 <div className="container">
                     <div className="content-text position-relative">
                         <div className="animate-element wow delay5 fadeInDown" data-wow-delay="0.3s">
-                            <div className="tag color-d1 lt-sp53 mg-b34">Product Designer</div>
+                            <div className="tag color-d1 lt-sp53 mg-b34">Full Stack Web Developer</div>
                             <h1 className="cd-headline clip is-full-width title color-d11 mg-b41">
-                                <span>Hello, </span>
-                                <span className="cd-words-wrapper color-d6">
-                                <b className="is-visible">I’m Perry!</b>
-                                <b>I’m Olivia!</b>
-                                <b>I’m Amelia!</b>
-                                </span>
+                                <span>Pierre Andr&eacute;&nbsp;<br />Lowenstein</span>
+                                {/* <span className="cd-words-wrapper color-d6">
+                                <b className="is-visible"></b>
+                                <b className="is-visible"></b>
+                                </span> */}
                             </h1>
                             <p className="color-d13 lt-sp02 mg-b51">
-                                Hi, i m perry, professional ux designer with 4 years <br />of experience. Need any help?
+                            I've been coding since age 10, at first with a 16Ko ATARI 600XL Computer.<br />
+                            Dealing with the limitations of the time, I've learned to maximize code efficiency over memory footprint.<br />
+                            Nowadays, I deliver full stack applications with a strong sense of design and a cinematic touch.<br />
+                            I enjoy creating something unique that will entice the imagination of my users.
                             </p>
                         </div>
                         <div className="animate-element wow delay5 fadeInUp" data-wow-delay="0.3s">
@@ -27,7 +29,7 @@ class Banner extends Component {
                         </div>
                     </div>
                     <div className="featured-post border-corner-bl">
-                        <img src="images/section/47.jpg" alt="images" />
+                        <img src="images/section/47.png" alt="images" />
                         <div className="site-list has-border text-center animate-element wow delay5 fadeInUp" data-wow-delay="0.3s">
                             <Link to="#" className="bg-s1"><i className="fa fa-twitter" aria-hidden="true" /></Link>
                             <Link to="#" className="bg-s2"><i className="fa fa-behance" aria-hidden="true" /></Link>

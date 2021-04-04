@@ -9,25 +9,25 @@ class TopEducation extends Component {
                     id: 1,
                     classname: 'experience-box experience-box-line t3',
                     datawow: '0.3s',
-                    year: 'Universite of Udacity',
-                    title: 'User Experience Design',
-                    text: 'User experience (UX) design is the process design teams use to create products.'
+                    year: '2020',
+                    title: 'UCLA Extension',
+                    text: 'Full Stack Coding Bootcamp'
                 },
                 {
                     id: 2,
                     classname: 'experience-box experience-box-line t3',
                     datawow: '0.5s',
-                    year: 'Udemy',
-                    title: 'User Centered Design',
-                    text: 'User experience (UX) design is the process design teams use to create products.'
+                    year: '2001',
+                    title: 'Berklee College of Music',
+                    text: 'Film Scoring, Bachelor of Arts'
                 },
                 {
                     id: 3,
                     classname: 'experience-box t3',
                     datawow: '0.7s',
-                    year: 'Skil Share',
-                    title: 'Interaction Design',
-                    text: 'User experience (UX) design is the process design teams use to create products.'
+                    year: '1997',
+                    title: 'American School of Modern Music',
+                    text: 'Jazz Studies'
                 }
             ],
             contentbot : [

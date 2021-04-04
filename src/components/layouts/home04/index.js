@@ -8,3 +8,14 @@ import CaseStudy from './CaseStudy';
 import Testimonial from './Testimonial';
 import Footer from './Footer';
 export {Header,Banner,About, Specilizing,Project, Education, CaseStudy, Testimonial, Footer}
+
+
+
+
+// Home
+// Profile
+// Skills
+// Portfolio
+// Contact
+// Résumé
+
