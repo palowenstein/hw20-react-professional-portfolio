@@ -7,27 +7,27 @@ class SlideCase extends Component {
             slider: [
                 {
                     id: 1,
-                    image: './images/section/45.jpg',
+                    image: 'palowenstein/professional-portfolio-react/images/section/45.jpg',
                     alt: 'images',
                     title: 'Portfolio',
                     view: 'Full view'
                 },
                 {
                     id: 2,
-                    image: './images/section/27.jpg',
+                    image: 'palowenstein/professional-portfolio-react/images/section/27.jpg',
                     alt: 'images',
                     title: 'Portfolio',
                     view: 'Full view'
                 },
                 {
                     id: 3,
-                    image: './images/section/28.jpg',
+                    image: 'palowenstein/professional-portfolio-react/images/section/28.jpg',
                     alt: 'images',
                     title: 'Drop',
                     view: 'Full view'
                 },{
                     id: 4,
-                    image: './images/section/46.jpg',
+                    image: 'palowenstein/professional-portfolio-react/images/section/46.jpg',
                     alt: 'images',
                     title: 'Design dive',
                     view: 'Full view'

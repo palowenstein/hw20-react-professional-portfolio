@@ -15,7 +15,7 @@ class Header extends Component {
                 <div className="container">
                     <div className="flex-header d-flex justify-content-between align-items-center">
                         <div id="logo" className="logo">
-                            <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="images/logo/02.png" alt="images" data-width={122} data-height={34} data-retina="images/logo/02@2x.png" /></Link>
+                            <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="palowenstein/professional-portfolio-react/images/logo/02.png" alt="images" data-width={122} data-height={34} data-retina="palowenstein/professional-portfolio-react/images/logo/02@2x.png" /></Link>
                         </div>
                         <div dir="rtl" className="btn-menu mobile-header__menu-button">
                             <div className="line line-1" />
@@ -64,7 +64,7 @@ class Header extends Component {
                         </div>
                         <div className="socials-list-hd s3 hv2">
                             <Link to="https://www.linkedin.com/in/palowenstein/" target="_blank"><i className="fa fa-linkedin" aria-hidden="true" /></Link>
-                            {/* <Link to="#"><i className="fa fa-twitter" aria-hidden="true" /></Link> */}
+                            <Link to="#"><i className="fa fa-github" aria-hidden="true" /></Link>
                         </div>
                     </div>
                 </div>

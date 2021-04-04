@@ -8,7 +8,7 @@ class Specilizing extends Component {
                 {
                     id: 1,
                     classimg: 'featured-post mg-b43',
-                    srcimg: './images/section/20.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/20.png',
                     altimg: 'images',
                     title: 'Web UI Design',
                     text01: "I'm a professional UX designer with",
@@ -17,7 +17,7 @@ class Specilizing extends Component {
                 {
                     id: 2,
                     classimg: 'featured-post mg-b42',
-                    srcimg: './images/section/21.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/21.png',
                     altimg: 'images',
                     title: 'Mobile UI Design',
                     text01: "I'm a professional UX designer with",
@@ -26,7 +26,7 @@ class Specilizing extends Component {
                 {
                     id: 3,
                     classimg: 'featured-post mg-b40',
-                    srcimg: './images/section/22.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/22.png',
                     altimg: 'images',
                     title: 'Branding Design',
                     text01: "I'm a professional UX designer with",
@@ -42,7 +42,7 @@ class Specilizing extends Component {
                 <div className="container">
                     <div className="background-inner bg-s2">
                         <div className="flat-title animate-element wow delay5 fadeInDown" data-wow-delay="0.5s">
-                        <h2 className="title-section color-d11 mg-b44 text-center">SPECILIZING IN</h2>
+                        <h2 className="title-section color-d11 mg-b44 text-center">SPECIALIZING IN</h2>
                         </div>
                         <div className="row animate-element wow delay5 fadeInUp" data-wow-delay="0.5s">
                             {

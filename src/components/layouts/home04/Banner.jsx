@@ -11,8 +11,8 @@ class Banner extends Component {
                             <h1 className="cd-headline clip is-full-width title color-d11 mg-b41">
                                 <span>Pierre Andr&eacute;&nbsp;<br />Lowenstein</span>
                                 {/* <span className="cd-words-wrapper color-d6">
-                                <b className="is-visible"></b>
-                                <b className="is-visible"></b>
+                                <b className="is-visible">Test</b>
+                                <b className="is-visible">Test</b>
                                 </span> */}
                             </h1>
                             <p className="color-d13 lt-sp02 mg-b51">
@@ -29,7 +29,7 @@ class Banner extends Component {
                         </div>
                     </div>
                     <div className="featured-post border-corner-bl">
-                        <img src="images/section/47.png" alt="images" />
+                        <img src="palowenstein/professional-portfolio-react/images/section/47.png" alt="images" />
                         <div className="site-list has-border text-center animate-element wow delay5 fadeInUp" data-wow-delay="0.3s">
                             <Link to="#" className="bg-s1"><i className="fa fa-twitter" aria-hidden="true" /></Link>
                             <Link to="#" className="bg-s2"><i className="fa fa-behance" aria-hidden="true" /></Link>
@@ -39,7 +39,7 @@ class Banner extends Component {
                 </div>
                 <div className="iconbox-s4 t2 color-s2 border-corner5 animate-element wow delay5 fadeZooming" data-wow-delay="0.3s">
                     <div className="avatar position-relative">
-                        <img src="images/footer/01.jpg" alt="images" />
+                        <img src="palowenstein/professional-portfolio-react/images/footer/01.jpg" alt="images" />
                     </div>
                     <div className="content-inner">
                         <h4 className="name lt-sp04 mg-b16 text-white position-relative">Available for Project</h4>

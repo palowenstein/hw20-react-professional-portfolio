@@ -7,7 +7,7 @@ import Education from './Education';
 import CaseStudy from './CaseStudy';
 import Testimonial from './Testimonial';
 import Footer from './Footer';
-export {Header,Banner,About, Specilizing,Project, Education, CaseStudy, Testimonial, Footer}
+export {Header, Banner, About, Specilizing, Project, Education, CaseStudy, Testimonial, Footer}
 
 
 

@@ -7,7 +7,7 @@ class Testimonial extends Component {
             testimonial: [
                 {
                     id: 1,
-                    img: './images/testimonial/07.jpg',
+                    img: 'palowenstein/professional-portfolio-react/images/testimonial/07.jpg',
                     alt: 'images',
                     text01: 'Excellent design, great communication, fast turnaround of revisions. I had a ',
                     text02: 'clear vision of what I wanted. Ranaroy did not just deliver it he',
@@ -17,7 +17,7 @@ class Testimonial extends Component {
                 },
                 {
                     id: 2,
-                    img: './images/testimonial/07.jpg',
+                    img: 'palowenstein/professional-portfolio-react/images/testimonial/07.jpg',
                     alt: 'images',
                     text01: 'Excellent design, great communication, fast turnaround of revisions. I had a ',
                     text02: 'clear vision of what I wanted. Ranaroy did not just deliver it he',
@@ -27,7 +27,7 @@ class Testimonial extends Component {
                 },
                 {
                     id: 3,
-                    img: './images/testimonial/07.jpg',
+                    img: 'palowenstein/professional-portfolio-react/images/testimonial/07.jpg',
                     alt: 'images',
                     text01: 'Excellent design, great communication, fast turnaround of revisions. I had a ',
                     text02: 'clear vision of what I wanted. Ranaroy did not just deliver it he',

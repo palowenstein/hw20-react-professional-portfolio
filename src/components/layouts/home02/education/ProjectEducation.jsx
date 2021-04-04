@@ -8,7 +8,7 @@ class ProjectEducation extends Component {
                     <div className="row">
                         <div className="col-lg-4 col-12">
                             <div className="featured-post animate-element wow delay5 fadeZooming" data-wow-delay="0.5s">
-                            <img src="images/section/23.png" alt="images" />
+                            <img src="palowenstein/professional-portfolio-react/images/section/23.png" alt="images" />
                             </div>
                         </div>
                         <div className="col-lg-8 col-12">

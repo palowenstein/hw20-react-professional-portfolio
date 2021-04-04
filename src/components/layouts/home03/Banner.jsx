@@ -27,7 +27,7 @@ class Banner extends Component {
                         </div>
                     </div>
                     <div className="featured-post border-corner-bl">
-                        <img src="images/section/35.jpg" alt="images" />
+                        <img src="palowenstein/professional-portfolio-react/images/section/35.jpg" alt="images" />
                         <div className="site-list has-border text-center animate-element wow delay5 fadeInUp" data-wow-delay="0.3s">
                             <Link to="#" className="bg-s1"><i className="fa fa-twitter" aria-hidden="true" /></Link>
                             <Link to="#" className="bg-s2"><i className="fa fa-behance" aria-hidden="true" /></Link>
@@ -37,7 +37,7 @@ class Banner extends Component {
                     </div>
                     <div className="iconbox-s4 t2 color-s2 border-corner5 animate-element wow delay5 fadeZooming" data-wow-delay="0.3s">
                         <div className="avatar position-relative">
-                            <img src="images/footer/01.jpg" alt="images" />
+                            <img src="palowenstein/professional-portfolio-react/images/footer/01.jpg" alt="images" />
                         </div>
                         <div className="content-inner">
                             <h4 className="name lt-sp04 mg-b16 text-white position-relative">Available for Project</h4>

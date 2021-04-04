@@ -14,7 +14,7 @@ class Header extends Component {
                 <div className="container">
                     <div className="flex-header d-flex justify-content-between align-items-center">
                         <div id="logo" className="logo">
-                            <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="images/logo/01.png" alt="images" data-width={122} data-height={34} data-retina="images/logo/01@2x.png" /></Link>
+                            <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="palowenstein/professional-portfolio-react/images/logo/01.png" alt="images" data-width={122} data-height={34} data-retina="images/logo/01@2x.png" /></Link>
                         </div>
                         <div dir="rtl" className="btn-menu mobile-header__menu-button">
                             <div className="line line-1" />

@@ -57,7 +57,7 @@ class Testimonial extends Component {
                             <div className="col-left animate-element wow delay5 fadeInDown" data-wow-delay="0.5s">
                                 <div className="flat-spacer" data-desktop={4} data-mobile={0} data-smobile={0} />
                                 <div className="wrap-box bg-white position-relative">
-                                    <div className="featured-post mg-b27"><img src="images/blog/11.jpg" alt="images" /></div>
+                                    <div className="featured-post mg-b27"><img src="palowenstein/professional-portfolio-react/images/blog/11.jpg" alt="images" /></div>
                                     <div className="images-list d-flex justify-content-between">
                                         {
                                             this.state.images.map(data =>(
@@ -66,7 +66,7 @@ class Testimonial extends Component {
                                         }
                                         
                                     </div>
-                                    <div className="quote"><img src="images/testimonial/09.png" alt="images" /></div>
+                                    <div className="quote"><img src="palowenstein/professional-portfolio-react/images/testimonial/09.png" alt="images" /></div>
                                 </div>
                             </div>
                             <div className="col-right animate-element wow delay5 fadeInUp" data-wow-delay="0.5s">

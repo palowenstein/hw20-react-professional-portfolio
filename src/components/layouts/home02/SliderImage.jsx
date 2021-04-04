@@ -7,32 +7,32 @@ class SliderImage extends Component {
             image: [
                 {
                     id: 1,
-                    image: './images/section/29.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/29.png',
                     alt: 'images'
                 },
                 {
                     id: 2,
-                    image: './images/section/30.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/30.png',
                     alt: 'images'
                 },
                 {
                     id: 3,
-                    image: './images/section/31.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/31.png',
                     alt: 'images'
                 },
                 {
                     id: 4,
-                    image: './images/section/32.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/32.png',
                     alt: 'images'
                 },
                 {
                     id: 5,
-                    image: './images/section/33.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/33.png',
                     alt: 'images'
                 },
                 {
                     id: 6,
-                    image: './images/section/29.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/29.png',
                     alt: 'images'
                 }
             ]

@@ -1278,7 +1278,7 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
     background-image: url(../images/section/48.png);
 }
 .background-wrap-home4 {
-    background-image: url(../images/section/49.jpg);
+    background-image: url(%PUBLIC_FOLDER%/images/section/49.jpg);
     background-size: cover;
 }
 .home4 .banner-section.two-home,

@@ -9,7 +9,7 @@ class CaseStudy extends Component {
                         <div className="col-left animate-element wow delay5 fadeInDown" data-wow-delay="0.5s">
                             <div className="image-link t2">
                                 <div className="featured-post">
-                                    <Link to="#"><img src="images/section/52.jpg" alt="images" /></Link>
+                                    <Link to="#"><img src="palowenstein/professional-portfolio-react/images/section/52.jpg" alt="images" /></Link>
                                 </div>
                                 <div className="portfolio-template-link text-center">
                                     <Link to="#" className="text-white">Portfolio Template</Link>
@@ -17,7 +17,7 @@ class CaseStudy extends Component {
                             </div>
                             <div className="image-link t2">
                                 <div className="featured-post">
-                                    <Link to="#"><img src="images/section/53.jpg" alt="images" /></Link>
+                                    <Link to="#"><img src="palowenstein/professional-portfolio-react/images/section/53.jpg" alt="images" /></Link>
                                 </div>
                             </div>
                             <div className="fl-btn text-center"> 
@@ -36,12 +36,12 @@ class CaseStudy extends Component {
                             <div className="pd-right">
                                 <div className="image-link t2">
                                     <div className="featured-post">
-                                        <Link to="#"><img src="images/section/54.jpg" alt="images" /></Link>
+                                        <Link to="#"><img src="palowenstein/professional-portfolio-react/images/section/54.jpg" alt="images" /></Link>
                                     </div>
                                 </div>
                                 <div className="image-link t2">
                                     <div className="featured-post">
-                                        <Link to="#"><img src="images/section/55.jpg" alt="images" /></Link>
+                                        <Link to="#"><img src="palowenstein/professional-portfolio-react/images/section/55.jpg" alt="images" /></Link>
                                     </div>
                                 </div>
                             </div>

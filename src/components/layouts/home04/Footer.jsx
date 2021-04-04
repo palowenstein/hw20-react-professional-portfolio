@@ -7,7 +7,7 @@ class Footer extends Component {
                 <footer id="footer" className="footer footer-s4">
                     <div className="container">
                         <div id="footer-widget" className="footer-widget-s3 border-bottom-s2 position-relative">
-                            <h3 className="widget-title larger lt-sp06 text-white text-center">Let’s try me!</h3>
+                            <h3 className="widget-title larger lt-sp06 text-white text-center">Reach out!</h3>
                             <div className="site-list site-list-center text-center">
                                 <Link to="#" className="bg-s1"><i className="fa fa-linkedin" aria-hidden="true" /></Link>
                                 <Link to="#" className="bg-s2"><i className="fa fa-github" aria-hidden="true" /></Link>

@@ -8,37 +8,37 @@ class Icon extends Component {
                 {
                     id: 1,
                     classname: 'shape-one',
-                    images: './images/testimonial/01.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/01.png',
                     alt: 'images',
                 },
                 {
                     id: 2,
                     classname: 'shape-two',
-                    images: './images/testimonial/02.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/02.png',
                     alt: 'images',
                 },
                 {
                     id: 3,
                     classname: 'shape-three',
-                    images: './images/testimonial/03.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/03.png',
                     alt: 'images',
                 },
                 {
                     id: 4,
                     classname: 'shape-four',
-                    images: './images/testimonial/04.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/04.png',
                     alt: 'images',
                 },
                 {
                     id: 5,
                     classname: 'shape-five',
-                    images: './images/testimonial/05.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/05.png',
                     alt: 'images',
                 },
                 {
                     id: 6,
                     classname: 'shape-six',
-                    images: './images/testimonial/06.png',
+                    images: 'palowenstein/professional-portfolio-react/images/testimonial/06.png',
                     alt: 'images',
                 }
             ]

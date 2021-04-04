@@ -10,7 +10,7 @@ class Home02 extends Component {
                     id: 1,                   
                     classcard: "iconbox-s2 iconbox-s2-t1 bg-white",
                     wowdelay: '0.5s',
-                    image: './images/section/20.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/20.png',
                     alt: 'images',
                     title: 'Web UI Design',
                     text: "I'm a professional UX designer with 4 years of experience. My main focus is on listening."
@@ -19,7 +19,7 @@ class Home02 extends Component {
                     id: 2,
                     classcard: "iconbox-s2 iconbox-s2-t1 bg-white active",
                     wowdelay: '0.8s',
-                    image: './images/section/21.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/21.png',
                     alt: 'images',
                     title: 'Mobile UI Design',
                     text: "I'm a professional UX designer with 4 years of experience. My main focus is on listening."
@@ -28,7 +28,7 @@ class Home02 extends Component {
                     id: 3,
                     classcard: "iconbox-s2 iconbox-s2-t1 bg-white",
                     wowdelay: '1.1s',
-                    image: './images/section/22.png',
+                    image: 'palowenstein/professional-portfolio-react/images/section/22.png',
                     alt: 'images',
                     title: 'Branding Design',
                     text: "I'm a professional UX designer with 4 years of experience. My main focus is on listening."

@@ -8,7 +8,7 @@ class Specilizing extends Component {
                 {
                     id: 1,
                     classimg: 'featured-post mg-b43',
-                    srcimg: './images/section/20.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/20.png',
                     altimg: 'images',
                     title: 'Web UI Design',
                     text01: "I'm a professional UX designer with",
@@ -17,7 +17,7 @@ class Specilizing extends Component {
                 {
                     id: 2,
                     classimg: 'featured-post mg-b42',
-                    srcimg: './images/section/21.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/21.png',
                     altimg: 'images',
                     title: 'Mobile UI Design',
                     text01: "I'm a professional UX designer with",
@@ -26,7 +26,7 @@ class Specilizing extends Component {
                 {
                     id: 3,
                     classimg: 'featured-post mg-b40',
-                    srcimg: './images/section/22.png',
+                    srcimg: 'palowenstein/professional-portfolio-react/images/section/22.png',
                     altimg: 'images',
                     title: 'Branding Design',
                     text01: "I'm a professional UX designer with",
@@ -68,7 +68,7 @@ class Specilizing extends Component {
                         <div className="row">
                             <div className="col-lg-6 col-12">
                                 <div className="featured-post animate-element wow delay5 fadeZooming" data-wow-delay="0.5s">
-                                    <img src="images/section/38.png" alt="images" />
+                                    <img src="palowenstein/professional-portfolio-react/images/section/38.png" alt="images" />
                                 </div>
                             </div>
                             <div className="col-lg-6 col-12">

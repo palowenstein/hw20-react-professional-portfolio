@@ -1,9 +1,9 @@
 const menus = [
-    {
-        id: 1,
-        tomenu: "#home",
-        namemenu: "Home"
-    },
+    // {
+    //     id: 1,
+    //     tomenu: "#home",
+    //     namemenu: "Home"
+    // },
     {
         id: 2,
         tomenu: "#profile",

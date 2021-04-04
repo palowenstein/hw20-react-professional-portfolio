@@ -24,7 +24,7 @@ class About extends Component {
                             </div>
                         </div>
                         <div className="featured-post animate-element wow delay5 fadeInRight" data-wow-delay="0.5s">
-                            <img src="images/section/09.png" alt="images" />
+                            <img src="palowenstein/professional-portfolio-react/images/section/09.png" alt="images" />
                         </div>
                     </section>
                 </div>

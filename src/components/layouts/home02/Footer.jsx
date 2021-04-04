@@ -8,7 +8,7 @@ class Footer extends Component {
                     <div className="container">
                         <div className="iconbox-s4 t1 color-s1 border-corner5 d-flex">
                             <div className="avatar position-relative">
-                                <img src="images/footer/01.jpg" alt="images" />
+                                <img src="palowenstein/professional-portfolio-react/images/footer/01.jpg" alt="images" />
                             </div>
                             <div className="content-inner">
                                 <h4 className="name lt-sp04 mg-b16 text-white position-relative">Available for Project</h4>
