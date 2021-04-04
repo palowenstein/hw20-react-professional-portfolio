@@ -73,9 +73,11 @@ src/components/layouts/home04/.DS_Store
 src/components/layouts/home04/about/.DS_Store
 src/components/layouts/home04/education/.DS_Store
 
+src/components/layouts/home03/.DS_Store
+src/components/layouts/home03/education/.DS_Store
 
-src/components/layouts/home03
-src/components/layouts/home04
-
+src/components/layouts/home04/.DS_Store
+src/components/layouts/home04/about/.DS_Store
+src/components/layouts/home04/education/.DS_Store
 
 src/components/pages/.DS_Store
