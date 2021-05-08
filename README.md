@@ -1,4 +1,4 @@
-# hw20-react-professional-portfolio
+# 20-react-professional-portfolio
 Professional Materials Portfolio built with React.
 
 ## Requirements
